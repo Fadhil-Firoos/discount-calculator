@@ -38,9 +38,8 @@ Here is a preview of the Discount Calculator application:
 
 **1. gunakan perintah di bawah pada terminal anda untuk menjalankan kode.**
 
-    ```bash
     py main.py
-    ```
+    
 **2. Masukan harga asli dan promo pastikan hanya angka yang dimasukan**
 
 **3. Tekan tombol Calculate**
